@@ -1,0 +1,6 @@
+TaskType1 1 5 2
+TaskType2 1 2 9
+TaskType3 8 4 6
+TaskType4 3 1 8 7
+TaskType5 2 8 10 4
+TaskType6 8 5 10 6 9
